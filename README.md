@@ -1,4 +1,4 @@
-# Desafio HTML - DIO 01
+# Desafio Módulo 1 HTML - DIO
 
 Este código HTML exemplifica o uso das tags HTML básicas, fornecendo uma breve explicação para cada uma dentro do próprio código.
 
@@ -22,3 +22,12 @@ Este código HTML exemplifica o uso das tags HTML básicas, fornecendo uma breve
 - `<font>`: Permite alterar a cor e o tamanho da fonte (uso desaconselhado em HTML moderno em favor de CSS).
 - `<del>`: Indica que um texto foi deletado de um documento.
 - `<abbr>`: Define uma abreviação e permite adicionar um texto explicativo ao passar o mouse.
+
+# Desafio Módulo 2 HTML - DIO
+
+Este desafio teve como objetivo, criar um site "quase" completo, com tudo o que foi visto neste módulo. Os temas abordados são:
+
+- Formulários
+- Estruturação e formatação de texto
+- Mídias
+- Tabelas
