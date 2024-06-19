@@ -31,3 +31,7 @@ Este desafio teve como objetivo, criar um site "quase" completo, com tudo o que 
 - Estruturação e formatação de texto
 - Mídias
 - Tabelas
+
+# Desafio Módulo 3 HTML - DIO
+
+Este desafio consistiu em desenvolver a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
